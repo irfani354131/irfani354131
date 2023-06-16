@@ -2,7 +2,7 @@
 -  I’m interested in the world of programming.
 -  I’m currently learning to explore frameworks (Laravel & CI) and various programming languages such as php, html, css etc.
 -  I’m looking to collaborate in a company where I can work with someone who is proficient in programming.
--  How to reach me at irfani.fridana354@gmail.com or number (+62) 882-003-527-382
+-  How to reach me at irfani.fridana354@gmail.com or number wa.me/62882003527382
 
 <!---
 irfani354131/irfani354131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
